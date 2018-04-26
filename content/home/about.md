@@ -17,12 +17,12 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD candidate in Information Science and Technology"
+  course = "PhD candidate in Computer Science"
   institution = "The University of Tokyo"
-  year = 2020
+
 
 [[education.courses]]
-  course = "MSc in Information Science and Technology"
+  course = "MSc in Computer Science"
   institution = "The University of Tokyo"
   year = 2015
 
