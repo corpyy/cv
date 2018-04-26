@@ -17,24 +17,22 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD candidate in Information Science and Technology"
+  institution = "The University of Tokyo"
+  year = 2015~
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Information Science and Technology"
+  institution = "The University of Tokyo"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BEng in Electoronic Engineering"
+  institution = "Keio University"
+  year = 2011
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+hoo!Japan研究所、フランス国立情報学自動制御研究所Inria等で人工知能に関する研究を行い、東大やInriaの同僚と共にCorpy&Co.を創業。関連する研究分野は、機械学習・ディープラーニング・マルチメディア（画像・言語）・Web（推薦システム・オンライン広告・UIUX最適化）・感性情報処理等。研究としては、推薦システムの最高峰国際会議RecSysのワークショップや、Webの最高峰国際会議WWW等で研究発表を行ってきた。またヤフーでは、ディープラーニングを用いたオンライン広告のクリック率予測技術を開発し特許を取得。Corpy&Co.では、医用画像認識システムをはじめとした様々なAIシステムの研究開発や、AI技術の研修事業を展開する。
