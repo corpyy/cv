@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD candidate in Information Science and Technology"
   institution = "The University of Tokyo"
-  year = 2015~
+  year = 2020
 
 [[education.courses]]
   course = "MSc in Information Science and Technology"
@@ -35,4 +35,10 @@ weight = 5
 
 # Biography
 
-hoo!Japan研究所、フランス国立情報学自動制御研究所Inria等で人工知能に関する研究を行い、東大やInriaの同僚と共にCorpy&Co.を創業。関連する研究分野は、機械学習・ディープラーニング・マルチメディア（画像・言語）・Web（推薦システム・オンライン広告・UIUX最適化）・感性情報処理等。研究としては、推薦システムの最高峰国際会議RecSysのワークショップや、Webの最高峰国際会議WWW等で研究発表を行ってきた。またヤフーでは、ディープラーニングを用いたオンライン広告のクリック率予測技術を開発し特許を取得。Corpy&Co.では、医用画像認識システムをはじめとした様々なAIシステムの研究開発や、AI技術の研修事業を展開する。
+Kohei YAMAMOTO is the founder, CEO of Corpy&Co., Inc., also was a resKearcher of artificial intelligence at The University of Tokyo, Yahoo! Japan lab, and Inria Nancy. His research interests lie in multimedia machine learning. More specifically, He is interested in developing new methods and applications which can reflect _Kansei_ [1] more to learn various multimedia data. He leads Corpy&Co., Inc., which conducts research on deep learning, multimedia (vision/ language/speech), web and so on.
+ 
+As multimedia research, They focus particularly on medical image analysis like a cancer detection from medical images. As web research, they develop some AI systems such as recommender systems, computational advertising, UI/UX auto-optimization and fake review detection.
+
+They also develop an "interruptive AI" agent. This is a completely new concept, experience, and will be the next culture.
+
+[1] _Kansei_ is a Japanese word that covers the meanings of sensitivity, sensibility, preference, feeling, emotion and intuition in English.
