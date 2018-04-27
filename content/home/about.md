@@ -35,7 +35,7 @@ weight = 5
 
 # Biography
 
-Kohei YAMAMOTO is the founder, CEO of Corpy&Co., Inc., also was a resKearcher of artificial intelligence at The University of Tokyo, Yahoo! Japan lab, and Inria Nancy. His research interests lie in multimedia machine learning. More specifically, He is interested in developing new methods and applications which can reflect _Kansei_ [1] more to learn various multimedia data. He leads Corpy&Co., Inc., which conducts research on deep learning, multimedia (vision/ language/speech), web and so on.
+Kohei YAMAMOTO is the founder, CEO of Corpy&Co., Inc., also was a researcher of artificial intelligence at The University of Tokyo, Yahoo! Japan lab., and Inria Nancy. His research interests lie in multimedia machine learning. More specifically, he is interested in developing new methods and applications which can reflect _Kansei_ [1] more to learn various multimedia data. He leads Corpy&Co., Inc., which conducts research on deep learning, multimedia (vision/ language/speech), web and so on.
  
 As multimedia research, They focus particularly on medical image analysis like a cancer detection from medical images. As web research, they develop some AI systems such as recommender systems, computational advertising, UI/UX auto-optimization and fake review detection.
 
